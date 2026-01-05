@@ -1,0 +1,13 @@
+package enums;
+
+public enum Event {
+    NEW_TURN,
+    BATTLE_END,
+    CREATURE_TAKE_DAMAGE,
+    DRAW_CARD,
+    RETURN_CARD,
+    PLACE_CARD,
+    INVOKE_CREATURE,
+    PLAYER_LAND_CHANGED, 
+    CREATURE_DUEL_START
+}
